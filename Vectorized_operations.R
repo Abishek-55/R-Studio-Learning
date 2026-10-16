@@ -12,6 +12,7 @@ x>=2
 # [1] FALSE  TRUE  TRUE  TRUE
 
 
+
 x*y
 # [1]  6 14 24 36
 

@@ -58,6 +58,9 @@ x <- factor(c('yes', 'yes', 'no', 'yes', 'no'),
             levels = c('yes', 'no'))
 x
 
+x <- list(2, 'a', 'b')
+x[[1]]
+
 
 
 
